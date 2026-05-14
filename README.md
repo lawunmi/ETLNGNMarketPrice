@@ -50,7 +50,7 @@ market_data.csv  →  Extract  →  Transform  →  Load  →  PostgreSQL
 - Required Python packages (install via pip):
 
 ```bash
-pip install pandas psycopg2-binary sqlalchemy python-dotenv
+pip install pandas psycopg2 os load_dotenv pyplot
 ```
 
 ### Configuration
